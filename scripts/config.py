@@ -8,7 +8,7 @@ RANDOM_SEED = 42
 
 # Program details
 COHORTS = ["Cohort-A", "Cohort-B", "Cohort-C", "Cohort-D"]
-TRACKS = ["Power BI", "AWS Cloud"]
+TRACKS = ["Power BI Track", "AWS Cloud Track"]
 START_DATE = datetime(2025, 1, 1)
 NUM_WEEKS = 12
 DAYS_PER_WEEK = 5
