@@ -151,7 +151,7 @@ data
 
 ### Data Model Diagram
 
-![Data Modeling Diagram](./screenshots/modelling.png)
+![Data Modeling Diagram](./screenshots/modeling.png)
 
 ---
 
@@ -160,12 +160,12 @@ data
 ### Page 1: Overall Performance Metrics
 Provides a high-level overview of program performance across all learners and tracks.
 
-![Overall Performance Metrics](./screenshots/overview_page.png)
+![Overall Performance Metrics](./screenshots/overview.png)
 
 ### Page 2: Detailed Learner Insights
 Enables drill-down analysis into individual learner performance and risk assessment.
 
-![Detailed Learner Insights](./screenshots/detailed_page.png)
+![Detailed Learner Insights](./screenshots/detailed.png)
 
 ---
 
@@ -182,8 +182,8 @@ dare-careers-powerbi-dashboard
 │   ├───Cloud Training
 │   ├───PowerBI Training
 └───screenshots/
-│   ├───overview_page.png
-│   ├───detailed_page.png
-│   └───modelling.png
+│   ├───overview.png
+│   ├───detailed.png
+│   └───modeling.png
 ```
 
